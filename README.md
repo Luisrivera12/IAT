@@ -1,4 +1,7 @@
 # IAT
-PROYECTO POS 2022
-the much importat the project is the Customer and the data generate for the Client . 
-TEST NUMERO 2 
+
+PROYECTO POS 2022.
+
+## Documentación
+
+- Propuesta de rediseño UX/UI para Administrador CRT (validación + picking): `docs/ux-ui-redesign-crt.md`
